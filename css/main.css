@@ -32,17 +32,19 @@ canvas {
 .header1 {
   font-family: 'Righteous', cursive;
   font-size: 6vw;
+  color: #C4BCBC;
 }
 
 .header3 {
   font-family: 'Ubuntu Mono', monospace;
   font-size: 1.7vw;
+  color: #C4BCBC;
 }
 
 .link1 {
   font-family: 'Ubuntu Mono', monospace;
   font-size: 2.8vw;
-  color: inherit;
+  color: #C4BCBC;
   margin: 0px 5px 0px 5px;
   transition: 0.5s;
 }
